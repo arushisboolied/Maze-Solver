@@ -5,7 +5,17 @@
     search (bestOrder) that treats the pairwise distances as edge weights.
 */
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <utility>
+#include <queue>
+#include <stack>
+#include <algorithm>
+#include <functional>
+#include <climits>
+#include <cstdlib>
 using namespace std;
 
 // ENFORCED STRUCTURES
